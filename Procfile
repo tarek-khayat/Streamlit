@@ -1,1 +1,1 @@
-web:setup.sh && streamlit run health.py
+web: sh setup.sh && streamlit health.py
